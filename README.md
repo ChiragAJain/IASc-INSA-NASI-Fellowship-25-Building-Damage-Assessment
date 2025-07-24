@@ -86,18 +86,14 @@ The models were evaluated based on classification accuracy, precision, recall, F
 
 ---
 
-## Set Up
+## Cloning & Downloading Dataset
 
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/ChiragAJain/IASc-INSA-NASI-Fellowship-25-Building-Damage-Assessment.git](https://github.com/ChiragAJain/IASc-INSA-NASI-Fellowship-25-Building-Damage-Assessment.git)
     cd IASc-INSA-NASI-Fellowship-25-Building-Damage-Assessment
     ```
-2.  **Set up the environment:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Download the xView2 Dataset:**
+2.  **Download the xView2 Dataset:**
     * Visit [xView2.org](https://www.xview2.org/)
     * Sign Up for the Challenge
     * After logging in, click on download data and agree to their terms and conditions
