@@ -90,8 +90,7 @@ The models were evaluated based on classification accuracy, precision, recall, F
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ChiragAJain/IASc-INSA-NASI-Fellowship-25-Building-Damage-Assessment.git](https://github.com/ChiragAJain/IASc-INSA-NASI-Fellowship-25-Building-Damage-Assessment.git)
-    cd IASc-INSA-NASI-Fellowship-25-Building-Damage-Assessment
+    git clone https://github.com/ChiragAJain/IASc-INSA-NASI-Fellowship-25-Assessing-Post-Disaster-Building-Damages.git
     ```
 2.  **Download the xView2 Dataset:**
     * Visit [xView2.org](https://www.xview2.org/)
